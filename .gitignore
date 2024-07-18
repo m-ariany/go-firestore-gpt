@@ -1,0 +1,6 @@
+firebase-cert.json
+.env
+env.sh
+.vscode
+test
+go-firestore-gpt-firebase-adminsdk*
