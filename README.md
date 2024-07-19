@@ -6,14 +6,6 @@ This project implements a worker written in Go that integrates with Firebase Fir
 
 - YouTube Related Videos: Finds and associates relevant YouTube videos based on product information.
 
-**Features**
-
-- Real-time Data Processing: Listens to Firestore database changes in real-time, ensuring timely updates to product information.
-
-- Natural Language Processing: Uses ChatGPT to perform sentiment analysis on product reviews, helping to gauge customer satisfaction.
-
-- YouTube Integration: Finds and links YouTube videos related to the products added, enhancing customer engagement and information.
-
 ## Running the Backend
 To run the backend, you have two options: download the latest released executable or build the project yourself.
 
